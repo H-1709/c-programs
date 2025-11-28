@@ -1,0 +1,19 @@
+# Ignore all compiled files
+*.exe
+*.o
+*.out
+
+# Ignore temporary files
+*.log
+*.tmp
+*.cache
+
+# Ignore VS Code settings (optional but recommended)
+.vscode/
+
+# Ignore build directory if any
+build/
+
+# Ignore macOS or Windows hidden files
+Thumbs.db
+.DS_Store
