@@ -1,0 +1,135 @@
+1. Write a program in C to input a string and print it.
+Test Data :
+Input the string : Welcome, Kict Education
+Expected Output :
+The string you entered is : Welcome, Kict Education 
+
+
+2. Write a program in C to find the length of a string without using library functions.
+Test Data :
+Input the string : kictindia.com
+Expected Output :
+Length of the string is : 13 
+
+3. Write a program in C to separate individual characters from a string.
+Test Data :
+Input the string : kictindia.com
+Expected Output :
+The characters of the string are : 
+k i c t i n d i a .  c  o  m 
+
+
+4. Write a program in C to print individual characters of a string in reverse order.
+Test Data :
+Input the string : kictindia.com
+Expected Output :
+The characters of the string in reverse are :
+m o c . a i d n i t c i k
+
+
+5. Write a program in C to count the total number of words in a string.
+Test Data :
+Input the string : This is kictindia.com
+Expected Output :
+Total number of words in the string is : 3 
+
+
+6. Write a program in C to compare two strings without using string library functions.
+Test Data :
+Check the length of two strings:
+--------------------------------
+Input the 1st string : aabbcc
+Input the 2nd string : abcdef
+String1: aabbcc
+String2: abcdef
+Expected Output : Strings are not equal.
+
+Check the length of two strings:
+--------------------------------
+Input the 1st string : aabbcc
+Input the 2nd string : aabbcc
+String1: aabbcc
+String2: aabbcc
+Expected Output : Strings are equal.
+
+
+
+7. Write a program in C to count the total number of alphabets, digits and special characters in a string.
+Test Data :
+Input the string : Welcome to kictindia.com since 1993
+Expected Output :
+Number of Alphabets in the string is : 26
+Number of Digits in the string is : 4
+Number of Special characters in the string is : 6
+
+
+8. Write a program in C to copy one string to another string.
+Test Data :
+Input the string : Welcome to kictindia.com
+Expected Output :
+The First string is : Welcome to kictindia.com
+The Second string is : Welcome to kictindia.com
+Number of characters copied : 25
+
+
+9. Write a program in C to count the total number of vowels or consonants in a string.
+Test Data :
+Input the string : Welcome to kictindia.com
+Expected Output :
+The total number of vowel in the string is : 9 
+The total number of consonant in the string is : 12 
+
+
+10. Write a program in C to find the maximum number of characters in a string.
+Test Data :
+Input the string : Welcome to w3resource.com.
+Expected Output :
+The Highest frequency of character 'c' 
+appears number of times : 3
+
+
+11. Write a C program to sort a string array in ascending order.
+Test Data :
+Input the string : w3resource
+Expected Output :
+After sorting the string appears like : 
+3ceeorrsuw 
+
+
+12. Write a program in C to read a string from the keyboard and sort it using bubble sort.
+Test Data :
+Input number of strings :3
+Input string 3 :
+zero
+one
+two
+Expected Output :
+The strings appears after sorting : 
+one 
+two 
+zero 
+
+
+13. Write a program in C to extract a substring from a given string.
+Test Data :
+Input the string : this is test string
+Input the position to start extraction :9
+Input the length of substring :4
+Expected Output :
+The substring retrieve from the string is : " test " 
+
+
+14. Write a C program to check whether a substring is present in a string.
+Test Data :
+Input the string : This is a test string.
+Input the substring to be search : search
+Expected Output :
+The substring is not exists in the string.
+
+
+15. Write a program in C to read a sentence and replace lowercase characters with uppercase and vice versa.
+Test Data :
+Input the string : This Is A Test String.
+Expected Output :
+The given sentence is   : This Is A Test String.
+After Case changed the string  is: tHIS iS a tEST sTRING.
